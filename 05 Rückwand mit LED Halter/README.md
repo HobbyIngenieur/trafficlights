@@ -13,6 +13,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ## Rückwände // Backplanes
 
 ![Vergleich](/Images/LED_Übersicht.jpg)
-![LED Streifen](/Images/Gehaeuse1er_offen_offen.PNG)
+![LED Streifen](/Images/LED_Streifen_3.jpg)
 ![Custom PCB+Holder](/Images/Tobias_Mueller.jpeg)
-[3 Lichter]: https://github.com/twam/Ampel-Streifen
+[Link zum Repository]: https://github.com/twam/Ampel-Streifen
