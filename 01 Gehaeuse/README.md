@@ -1,4 +1,4 @@
-# 3D druckbare Ampelgehäuse // 3D printable trafficlights
+# 01 Gehäuse // 01 Bodies
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
@@ -12,4 +12,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Übersicht // Overview
 
-![Systematik](/Images/Systematik.PNG)
+![Vergleich](/Images/Ampel_Formen.jpg)
+![1 Licht](/Images/Gehaeuse1er_offen_offen.PNG)
+![2 Lichter](/Images/Gehaeuse2er_offen_offen.PNG)
+![3 Lichter](/Images/Gehaeuse3er_offen_offen.PNG)
