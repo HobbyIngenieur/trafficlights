@@ -12,4 +12,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Übersicht // Overview
 
-![Systematik](Images/Systematik.png)
+![Systematik](/Images/Systematik.png)
