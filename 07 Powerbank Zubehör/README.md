@@ -26,6 +26,8 @@ Die benötigte Powerbank sollte einen Durchmesser von 32mm haben. Dies trifft zu
 
 The needed powerbank should be 32mm in diameter. E. g. an Anker Powercore 5000 will fit.
 
+## Haken / Hook
+Der Haken wird zweiteilig gedruckt und zusammengeschraubt.
 ![Detail](/Images/Powerbank_Hook.PNG)
 
 ## CO2-Sensorplatinen:
