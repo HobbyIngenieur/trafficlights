@@ -12,7 +12,13 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Varianten
 ![Vergleich](/Images/PowerbankAddons.PNG)
-Von Links nach rechts / From left to right: Powerbank_Ring, Powerbank_Clip, Make_Octopus_Powerbank_Magnet, Make_Octopus_Powerbank_Hook_(Base|Hook), TWAM_CO2_Powerbank_Magnet
+Von Links nach rechts / From left to right: 
+* Powerbank_Ring
+* Powerbank_Clip
+* Make_Octopus_Powerbank_Magnet
+* Make_Octopus_Powerbank_Hook_(Base|Hook)
+* TWAM_CO2_Powerbank_Magnet
+
 ![Detail](/Images/Powerbank_Hook.PNG)
 
 ## CO2-Sensorplatinen:
