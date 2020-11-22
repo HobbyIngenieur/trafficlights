@@ -14,5 +14,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ![Vergleich](/Images/LED_Übersicht.jpg)
 ![LED Streifen](/Images/LED_Streifen3.jpg)
+## Custom PCB by Tobias Müller
 ![Custom PCB+Holder](/Images/Tobias_Müller.jpeg)
 [Link zum Repository]: https://github.com/twam/Ampel-Streifen
