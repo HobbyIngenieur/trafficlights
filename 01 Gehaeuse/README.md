@@ -13,6 +13,16 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ## Übersicht // Overview
 
 ![Vergleich](/Images/Ampel_Formen.jpg)
+Varianten in Größe, oberem Gehäuseabschluss, unterem Gehäuseabschluss
+* Links: 3er, offen, offen
+* Mitte: 2er, geschlossen, geschlossen
+' Rechts: 1er, geschlossen, 5mm
+
+## 1er
 ![1 Licht](/Images/Gehaeuse1er_offen_offen.PNG)
+
+## 2er
 ![2 Lichter](/Images/Gehaeuse2er_offen_offen.PNG)
+
+## 3er
 ![3 Lichter](/Images/Gehaeuse3er_offen_offen.PNG)
