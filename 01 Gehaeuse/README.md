@@ -16,7 +16,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 Varianten in Größe, oberem Gehäuseabschluss, unterem Gehäuseabschluss
 * Links: 3er, offen, offen
 * Mitte: 2er, geschlossen, geschlossen
-' Rechts: 1er, geschlossen, 5mm
+* Rechts: 1er, geschlossen, 5mm Bohrung
 
 ## 1er
 ![1 Licht](/Images/Gehaeuse1er_offen_offen.PNG)
