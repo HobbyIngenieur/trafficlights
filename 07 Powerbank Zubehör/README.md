@@ -19,6 +19,9 @@ Von Links nach rechts / From left to right:
 * Make_Octopus_Powerbank_Hook_(Base|Hook)
 * TWAM_CO2_Powerbank_Magnet
 
+Die benötigte Powerbank sollte einen Durchmesser von 32mm haben. Dies trifft zum Beispiel auf die Anker Powercore 5000 zu.
+The needed powerbank should be 32mm in diameter. E. g. a Anker Powercore 5000 will fit.
+
 ![Detail](/Images/Powerbank_Hook.PNG)
 
 ## CO2-Sensorplatinen:
@@ -26,4 +29,4 @@ Von Tobias Müller
 [Link zum Repository]: https://github.com/twam/Co2-Sensor-Hardware
 
 Von Guido Burger
-[Link zum Shop]: https://http://www.co2ampel.org/
+[Link zum Anleitung]: https://http://www.co2ampel.org/
