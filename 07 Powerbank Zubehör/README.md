@@ -10,7 +10,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-![Varianten](/Images/StandaloneCO2_TWAM.jpg)
+## Beispiel
+![Beispiel](/Images/StandaloneCO2_TWAM.jpg)
 
 ## Varianten
 ![Varianten](/Images/PowerbankAddons.PNG)
@@ -31,4 +32,4 @@ Von Tobias Müller
 [Link zum Repository]: https://github.com/twam/Co2-Sensor-Hardware
 
 Von Guido Burger
-[Link zum Anleitung]: https://http://www.co2ampel.org/
+[Link zum Anleitung]: https://www.co2ampel.org/
