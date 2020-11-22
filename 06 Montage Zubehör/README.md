@@ -12,7 +12,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Varianten
 ![Schirm](/Images/Montage_Zubehör.PNG)
-Von links nach rechts
+Von links nach rechts:
 * KappeAussen - zum Verschließen eines Gehäuses mit großen Bohrungen. Wird von außen eingesetzt und innen gegen eine Scheibe geschraubt
 * Verbinder - zum Verbinden (ach?) von zwei separaten Gehäusen mit großen Bohrungen. Eine Seite Verbinder, andere Seite Scheibe
 * Scheibe - Gegenstück für KappeAussen und Verbinder, Einkerbung als Verdrehsicherung.
