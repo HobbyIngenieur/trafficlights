@@ -11,7 +11,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Beispiel
-![Beispiel](/Images/StandaloneCO2_TWAM.jpg)
+![Beispiel für eine Standalone CO2 Ampel mit Powerbank als Verbindungselement](/Images/StandaloneCO2_TWAM.jpg)
 
 ## Varianten
 ![Varianten](/Images/PowerbankAddons.PNG)
@@ -24,7 +24,7 @@ Von Links nach rechts / From left to right:
 
 Die benötigte Powerbank sollte einen Durchmesser von 32mm haben. Dies trifft zum Beispiel auf die Anker Powercore 5000 zu.
 
-The needed powerbank should be 32mm in diameter. E. g. a Anker Powercore 5000 will fit.
+The needed powerbank should be 32mm in diameter. E. g. an Anker Powercore 5000 will fit.
 
 ![Detail](/Images/Powerbank_Hook.PNG)
 
