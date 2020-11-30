@@ -35,4 +35,4 @@ Von Tobias Müller
 [Link zum Repository]: https://github.com/twam/Co2-Sensor-Hardware
 
 Von Guido Burger
-[Link zum Anleitung]: https://www.co2ampel.org/
+[Link zur Anleitung]: https://www.co2ampel.org/
