@@ -2,6 +2,7 @@
 # 3D druckbare Ampelgehäuse // 3D printable trafficlights
 
 ![Beispiel](/Images/StandaloneCO2_TWAM.jpg)
+
 Dieses Repository beinhaltet die STL Files, die zum Druck der in Ausgabe 06/2020 des Make Magazins beschriebenen Ampelgehäuse benötigt werden. Die Nummerierung auf der nachfolgenden Abbildung stimmt mit der Benennung/Sortierung der Unterverzeichnisse überein, damit die Teile leichter auffindbar sind.
 
 ## Übersicht // Overview
