@@ -11,7 +11,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Beispiel für eine Standalone CO2 Ampel mit Powerbank als Verbindungselement
-![Beispiel](/Images/StandaloneCO2_TWAM.jpg)
+![Beispiel](/Images/PowerBankMount.jpg)
 
 ## Varianten
 ![Varianten](/Images/PowerbankAddons.PNG)
