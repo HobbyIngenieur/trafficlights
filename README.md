@@ -12,5 +12,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Übersicht // Overview
+Dieses Repository beinhaltet die STL Files, die zum Druck der in Ausgabe 06/2020 des Make Magazins beschriebenen Ampelgehäuse benötigt werden. Die Nummerierung auf der nachfolgenden Abbildung stimmt mit der Benennung/Sortierung der Unterverzeichnisse überein, damit die Teile leichter auffindbar sind.
+
+## Übersicht // Overview
 
 ![Systematik](/Images/Systematik.PNG)
