@@ -1,3 +1,4 @@
+![Banner](/Images/Make_2020-06_Banner.jpg)
 # 3D druckbare Ampelgehäuse // 3D printable trafficlights
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
